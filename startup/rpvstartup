@@ -1,2 +1,4 @@
+#!/bin/bash
 $(guake > /dev/null) &
-
+synclient AreaLeftEdge=400
+synclient AreaRightEdge=2400
